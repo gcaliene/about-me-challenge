@@ -1,0 +1,17 @@
+section {
+    background-color:azure;
+    border: 1px solid aquamarine;
+    padding: 30px;
+}
+
+#lady { 
+	
+	float: right;
+	/* padding-top: 10px;
+	padding-left: 550px;*/
+
+}
+
+ul.nodots {
+	list-style:none;
+}
